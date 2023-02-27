@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif)" width="100"/>
+</div>
+
 ### Hi there 👋
 
 I’m Angel At the moment I am studying at SoftUni to become a Java Software Engineer .
