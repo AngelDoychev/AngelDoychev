@@ -8,9 +8,7 @@ I’m Angel At the moment I am studying at SoftUni to become a Java Software Eng
 <br> ⚡ My interests include: 
 <br>-Chess ♟ 
 <br>-Coding 👨🏽‍💻 
-<br>-Sports 🥊🏓🧗‍♂<br><br>
-
-<br>
+<br>-Sports 🥊🏓🧗‍♂<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelDoychev&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelDoychev&theme=omni&hide_border=false)<br/>
