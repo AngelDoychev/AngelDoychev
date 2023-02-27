@@ -5,3 +5,4 @@ I’m Angel At the moment I am studying at SoftUni to become a Java Software Eng
 <br>-Chess ♟ 
 <br>-Coding 👨🏽‍💻 
 <br>-Sports 🥊🏓🧗‍♂
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AngelDoychev&theme=dark)](https://git.io/streak-stats)
