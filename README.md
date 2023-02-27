@@ -17,7 +17,7 @@ I’m Angel At the moment I am studying at SoftUni to become a Java Software Eng
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=AngelDoychev&theme=vue-dark&hide_border=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDoychev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 ## 🏆 GitHub Trophies
-<img width=400 src=(https://github-profile-trophy.vercel.app/?username=AngelDoychev&theme=radical&no-frame=false&no-bg=true&margin-w=4)' />
+(https://github-profile-trophy.vercel.app/?username=AngelDoychev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
