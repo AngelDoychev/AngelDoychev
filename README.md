@@ -11,7 +11,7 @@ I’m Angel At the moment I am studying at SoftUni to become a Java Software Eng
 <br>-Coding 👨🏽‍💻 
 <br>-Sports 🥊🏓🧗‍♂<br>
 ## Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,idea,visualstudio,vscode,github,linux,regex)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,javascript,typescript,html,css,idea,visualstudio,vscode,mysql,postman,docker,github,linux,regex)](https://skillicons.dev) <br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelDoychev&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelDoychev&theme=omni&hide_border=false)<br/>
