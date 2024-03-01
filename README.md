@@ -5,8 +5,24 @@
 
 ### Hi there 👋
 
-I’m Angel I am a Software Engineer looking for new opportunities.
-<br> ⚡ My interests include: 
+{
+    "name": "Angel Doychev",
+    "details": "I’m Angel I am a Software Engineer looking for new opportunities.",
+    "hobbies": [
+        {
+            "name": "Coding 👨🏽‍💻"
+        },
+        {
+            "name": "Chess ♟"
+        },
+        {
+            "name": "Sports 🥊🏓🧗‍♂"
+        }
+    ]
+}
+
+
+
 <br>-Chess ♟ 
 <br>-Coding 👨🏽‍💻 
 <br>-Sports 🥊🏓🧗‍♂<br>
