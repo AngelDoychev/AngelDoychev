@@ -37,10 +37,6 @@
 <br>
 
 
-
-<br>-Chess ♟ 
-<br>-Coding 👨🏽‍💻 
-<br>-Sports 🥊🏓🧗‍♂<br>
 ## Skills: 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,javascript,typescript,html,css,idea,visualstudio,vscode,mysql,postman,docker,github,linux,regex)](https://skillicons.dev) <br>
 # 📊 GitHub Stats:
