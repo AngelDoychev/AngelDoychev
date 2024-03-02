@@ -7,35 +7,20 @@
 <pre>
 <br>
 {
-<br>
     "name": "Angel Doychev",
-    <br>
     "details": "I’m Angel I am a Software Engineer looking for new opportunities.",
-    <br>
     "hobbies": [
-    <br>
         {
-        <br>
             "name": "Coding 👨🏽‍💻"
-            <br>
         },
-        <br>
         {
-        <br>
             "name": "Chess ♟"
-            <br>
         },
-        <br>
         {
-        <br>
             "name": "Sports 🥊🏓🧗‍♂"
-            <br>
         }
-        <br>
     ]
-    <br>
 }
-<br>
 </pre>
 
 ## Skills: 
