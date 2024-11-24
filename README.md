@@ -25,6 +25,7 @@
 </pre>
 
 <h3 align="left">Skills:</h3>
+
  <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -36,14 +37,14 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=java, c++, c#)](https://skillicons.dev) <br>
+    [![My Skills](https://skillicons.dev/icons?i=java,c++,c#)](https://skillicons.dev) <br>
   </kbd>
   
    <kbd>
     <kbd>Libraries / Frameworks</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=spring, angular, hibernate, maven)](https://skillicons.dev) <br>
+    [![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,maven)](https://skillicons.dev) <br>
   </kbd>
 
   <kbd>
@@ -61,9 +62,7 @@
   </kbd>
 
   
-  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,angular,javascript,typescript,html,css,idea,visualstudio,vscode,mysql,postman,docker,github,linux,regex)](https://skillicons.dev) <br>
-# 📊 GitHub Stats:
+  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelDoychev&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelDoychev&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelDoychev&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
