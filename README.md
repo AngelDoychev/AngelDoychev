@@ -60,7 +60,6 @@
     <kbd>Database</kbd>
     <br>
     <br>
-    https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg
   <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" />
   </kbd>
   
