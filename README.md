@@ -1,9 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020024,50:56258F,100:B229E4&text=Software%20Engineer&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=30&descAlignY=41)
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/f3/c6/35/f3c6352193fef0bfc80744b7e71fd693.gif" width="300"alt="Avatar"/>
-
-</div>
-
 ### Hi there 👋
 <pre>
 <br>
