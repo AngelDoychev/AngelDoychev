@@ -26,40 +26,41 @@
 
 <h3 align="left">Skills:</h3>
 
- <kbd>
-    <kbd>Front-end</kbd>
+ <div>
+    <div>Front-end</div>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css, kotlin)](https://skillicons.dev) <br>
-  </kbd>
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,kotlin)](https://skillicons.dev) <br>
+  </div>
 
-   <kbd>
-    <kbd>Back-end</kbd>
+   <div>
+    <div>Back-end</div>
     <br>
     <br>
     [![My Skills](https://skillicons.dev/icons?i=java,c++,c#)](https://skillicons.dev) <br>
-  </kbd>
+  </div>
   
-   <kbd>
-    <kbd>Libraries / Frameworks</kbd>
+   <div>
+    <div>Libraries / Frameworks</div>
     <br>
     <br>
     [![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,maven)](https://skillicons.dev) <br>
-  </kbd>
+  </div>
 
-  <kbd>
-    <kbd>Database</kbd>
+  <div>
+    <div>Database</div>
     <br>
     <br>
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <br>
-  </kbd>
+  </div>
   
-  <kbd>
-    <kbd>Tools</kbd>
+  <div>
+    <div>Tools</div>
     <br>
     <br>
     [![My Skills](https://skillicons.dev/icons?i=idea,clion,visualstudio,vscode,postman,docker,github,linux,regex)](https://skillicons.dev) <br>
-  </kbd>
+  </div>
+
 
   
   # 📊 GitHub Stats:
