@@ -26,43 +26,62 @@
 
 <h3 align="left">Skills:</h3>
 
- <div>
-    <div>Front-end</div>
+ <kbd>
+    <kbd>Front-end</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,kotlin)](https://skillicons.dev) <br>
-  </div>
+     <img width="30px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" /> 
+    <img width="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" /> 
+       <img width="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /> 
+    <img width="35px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
+    <img width="35px" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" />
+  </kbd>
 
-   <div>
-    <div>Back-end</div>
+   <kbd>
+    <kbd>Back-end</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=java,c++,c#)](https://skillicons.dev) <br>
-  </div>
+     <img width="34.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
+  </kbd>
   
-   <div>
-    <div>Libraries / Frameworks</div>
+   <kbd>
+    <kbd>Libraries / Frameworks</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=spring,angular,hibernate,maven)](https://skillicons.dev) <br>
-  </div>
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" />
+         <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/apache-maven-1.svg" />
+  </kbd>
 
-  <div>
-    <div>Database</div>
+  <kbd>
+    <kbd>Database</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) <br>
-  </div>
+    https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg
+  <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" />
+  </kbd>
   
-  <div>
-    <div>Tools</div>
+  <kbd>
+    <kbd>Tools</kbd>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=idea,clion,visualstudio,vscode,postman,docker,github,linux,regex)](https://skillicons.dev) <br>
-  </div>
+<img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" />
+     <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/android-studio-logo.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/virtualbox.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />
+    <img width="30.5px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
+  </kbd>
 
 
-  
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AngelDoychev&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AngelDoychev&theme=omni&hide_border=false)<br/>
